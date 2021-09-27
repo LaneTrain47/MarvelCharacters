@@ -1,0 +1,46 @@
+body {
+    font-size: 1em;
+}
+
+table {
+    width: 90%;
+}
+
+.heroImg {
+    max-width: 200px;
+}
+
+.logo {
+    max-width: 400px;
+}
+
+.oddRow {
+    background-color: darkgray;
+}
+
+.evenRow {
+    background-color: lightgray;
+}
+
+.tableHeader {
+    background-color: #212121;
+    color: white;
+    font-size: 1.5em;
+}
+
+#heroText {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4em;
+    margin: 0;
+    text-transform: uppercase;
+    color: red;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: yellow;
+    text-shadow: 2px 1px #292929;
+}
+
+.titleFont {
+    font-size: 5em;
+    font-family: 'Comic Neue', cursive;
+    text-transform: uppercase;
+}
